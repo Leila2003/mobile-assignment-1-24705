@@ -1,10 +1,10 @@
 # leila
 
-A new Flutter project.
+A simple calculator .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_1719088958](https://github.com/Leila2003/mobile-assignment-1-24705/assets/147077979/231510cb-84a1-4809-8faf-c4008cc131cb)
 
 A few resources to get you started if this is your first Flutter project:
 
